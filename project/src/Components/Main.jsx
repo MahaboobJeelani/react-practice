@@ -25,7 +25,7 @@
 // }
 // export default Main
 
-// ==================== Count components is connected to thid components  and Button component ====================
+// ==================== Count components is connected to Count components and Button component ====================
 
 import Count from "./Count"
 import Button from "./Button"
